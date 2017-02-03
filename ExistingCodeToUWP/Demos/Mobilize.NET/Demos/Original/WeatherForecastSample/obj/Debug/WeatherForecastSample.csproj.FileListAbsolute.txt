@@ -1,0 +1,16 @@
+C:\Presentations\Bringing your code to Windows\1.Mobilize.NET\Demos\Original\WeatherForecastSample\Bin\Debug\ApplicationIcon.png
+C:\Presentations\Bringing your code to Windows\1.Mobilize.NET\Demos\Original\WeatherForecastSample\Bin\Debug\Background.png
+C:\Presentations\Bringing your code to Windows\1.Mobilize.NET\Demos\Original\WeatherForecastSample\Bin\Debug\WeatherForecastSample.dll
+C:\Presentations\Bringing your code to Windows\1.Mobilize.NET\Demos\Original\WeatherForecastSample\Bin\Debug\WeatherForecastSample.pdb
+C:\Presentations\Bringing your code to Windows\1.Mobilize.NET\Demos\Original\WeatherForecastSample\Bin\Debug\AppManifest.xaml
+C:\Presentations\Bringing your code to Windows\1.Mobilize.NET\Demos\Original\WeatherForecastSample\Bin\Debug\Properties\WMAppManifest.xml
+C:\Presentations\Bringing your code to Windows\1.Mobilize.NET\Demos\Original\WeatherForecastSample\Bin\Debug\WeatherForecastSample_Debug_AnyCPU.xap
+C:\Presentations\Bringing your code to Windows\1.Mobilize.NET\Demos\Original\WeatherForecastSample\Bin\Debug\Coding4Fun.Toolkit.Controls.dll
+C:\Presentations\Bringing your code to Windows\1.Mobilize.NET\Demos\Original\WeatherForecastSample\obj\Debug\WeatherForecastSample.csprojResolveAssemblyReference.cache
+C:\Presentations\Bringing your code to Windows\1.Mobilize.NET\Demos\Original\WeatherForecastSample\obj\Debug\App.g.cs
+C:\Presentations\Bringing your code to Windows\1.Mobilize.NET\Demos\Original\WeatherForecastSample\obj\Debug\ForecastPage.g.cs
+C:\Presentations\Bringing your code to Windows\1.Mobilize.NET\Demos\Original\WeatherForecastSample\obj\Debug\MainPage.g.cs
+C:\Presentations\Bringing your code to Windows\1.Mobilize.NET\Demos\Original\WeatherForecastSample\obj\Debug\WeatherForecastSample.g.resources
+C:\Presentations\Bringing your code to Windows\1.Mobilize.NET\Demos\Original\WeatherForecastSample\obj\Debug\WeatherForecastSample.dll
+C:\Presentations\Bringing your code to Windows\1.Mobilize.NET\Demos\Original\WeatherForecastSample\obj\Debug\WeatherForecastSample.pdb
+C:\Presentations\Bringing your code to Windows\1.Mobilize.NET\Demos\Original\WeatherForecastSample\obj\Debug\XapCacheFile.xml

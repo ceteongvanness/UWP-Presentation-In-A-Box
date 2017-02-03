@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10" xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10" xmlns:uap2="http://schemas.microsoft.com/appx/manifest/uap/windows10/2" xmlns:uap3="http://schemas.microsoft.com/appx/manifest/uap/windows10/3" xmlns:rescap="http://schemas.microsoft.com/appx/manifest/foundation/windows10/restrictedcapabilities" xmlns:desktop="http://schemas.microsoft.com/appx/manifest/desktop/windows10">
+  <Identity Name="477Rajen.Healthclinic.bizIgnite2016" ProcessorArchitecture="x64" Publisher="CN=8534DD2F-8D54-4DEF-A235-21DEF9658A9A" Version="1.0.0.0" />
+  <Properties>
+    <DisplayName>HealthClinic.biz</DisplayName>
+    <PublisherDisplayName>Microsoft Ignite Demo</PublisherDisplayName>
+    <Logo>Assets\Store50x50Logo.png</Logo>
+  </Properties>
+  <Resources>
+    <Resource Language="en-us" />
+  </Resources>
+  <Dependencies>
+    <TargetDeviceFamily Name="Windows.Desktop" MinVersion="10.0.14393.0" MaxVersionTested="10.0.14393.0" />
+  </Dependencies>
+  <Capabilities>
+    <rescap:Capability Name="runFullTrust" />
+    <Capability Name="internetClient" />
+  </Capabilities>
+  <Applications>
+    <Application Id="HealthClinic.biz" Executable="MyHealth.Client.Desktop.exe" EntryPoint="Windows.FullTrustApplication">
+      <uap:VisualElements DisplayName="HealthClinic.biz" Description="HealthClinic.biz" BackgroundColor="#777777" Square150x150Logo="Assets\Square150x150Logo.png" Square44x44Logo="Assets\Square44x44Logo.png" />
+      <Extensions />
+    </Application>
+  </Applications>
+</Package>

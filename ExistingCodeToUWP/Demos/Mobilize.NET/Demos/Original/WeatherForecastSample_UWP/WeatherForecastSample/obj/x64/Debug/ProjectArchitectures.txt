@@ -1,0 +1,1 @@
+C:\Presentations\Bringing your code to Windows\1.Mobilize.NET\Demos\Original\WeatherForecastSample_UWP\WeatherForecastSample\WeatherForecastSample.csproj;x64

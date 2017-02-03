@@ -1,0 +1,13 @@
+private void ApplicationBarMenuItem_Click(object sender, Windows.UI.Xaml.RoutedEventArgs e)
+{
+	var aboutprompt = new WindowsPhoneUWP.UpgradeHelpers.AboutPrompt();
+	aboutprompt.Title = "Weather Forecast";
+	var aboutPromptItem = new WindowsPhoneUWP.UpgradeHelpers.AboutPromptItem()
+	{
+		AuthorName = "Microsoft",
+		Role = "#BUILD",
+		EmailAddress = "builddemo@microsoft.com",
+		WebSiteUrl = "https://build.microsoft.com/"
+	};
+	aboutprompt.Show(aboutPromptItem);
+}

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EwiData>
+  <UpgradeLog ProjectName="WeatherForecastSample.csproj">
+    <Settings />
+    <File OldPath="C:\Presentations\Bringing your code to Windows\1.Mobilize.NET\Demos\Original\WeatherForecastSample\App.xaml.cs" NewPath="">
+      <Section Name="Mappings">
+        <Issue Type="Runtime" Number="1101" Quantity="1">Microsoft.Phone.Shell.LaunchingEventArgs was not upgraded</Issue>
+      </Section>
+    </File>
+    <File OldPath="C:\Presentations\Bringing your code to Windows\1.Mobilize.NET\Demos\Original\WeatherForecastSample\Forecast.cs" NewPath="">
+      <Section Name="Mappings">
+        <Issue Type="Runtime" Number="1113" Quantity="2">The tool does not have information on the 'System.UriBuilder' library class. Its 'Query' member was referenced.</Issue>
+        <Issue Type="Runtime" Number="1113" Quantity="1">The tool does not have information on the 'System.UriBuilder' library class. Its 'Uri' member was referenced.</Issue>
+        <Issue Type="Runtime" Number="1113" Quantity="1">The tool does not have information on the 'System.IAsyncResult' library class. Its 'AsyncState' member was referenced.</Issue>
+        <Issue Type="Runtime" Number="1113" Quantity="4">The tool does not have information on the 'System.Collections.ObjectModel.ObservableCollection' library class. Its 'Add' member was referenced.</Issue>
+        <Issue Type="Runtime" Number="1113" Quantity="2">The tool does not have information on the 'System.Collections.ObjectModel.ObservableCollection' library class. Its 'Clear' member was referenced.</Issue>
+        <Issue Type="Runtime" Number="1113" Quantity="26">The tool does not have information on the 'System.Collections.ObjectModel.ObservableCollection' library class. Its 'ElementAt' member was referenced.</Issue>
+      </Section>
+    </File>
+    <File OldPath="C:\Presentations\Bringing your code to Windows\1.Mobilize.NET\Demos\Original\WeatherForecastSample\ForecastPage.xaml" NewPath="">
+      <Section Name="Mappings">
+        <Issue Type="Runtime" Number="1101" Quantity="2">PhoneApplicationPage.SupportedOrientations was not upgraded</Issue>
+        <Issue Type="Runtime" Number="1101" Quantity="1">PhoneApplicationPage.Orientation was not upgraded</Issue>
+        <Issue Type="Runtime" Number="1101" Quantity="1">PhoneApplicationPage.IsVisible was not upgraded</Issue>
+      </Section>
+    </File>
+    <File OldPath="C:\Presentations\Bringing your code to Windows\1.Mobilize.NET\Demos\Original\WeatherForecastSample\MainPage.xaml" NewPath="">
+      <Section Name="Mappings">
+        <Issue Type="Runtime" Number="1101" Quantity="2">PhoneApplicationPage.SupportedOrientations was not upgraded</Issue>
+        <Issue Type="Runtime" Number="1101" Quantity="1">PhoneApplicationPage.Orientation was not upgraded</Issue>
+        <Issue Type="Runtime" Number="1101" Quantity="1">PhoneApplicationPage.IsVisible was not upgraded</Issue>
+        <Issue Type="Runtime" Number="1111" Quantity="1">The tool does not have information on the 'MemoryCounter' XAML element with namespace 'clr-namespace:Coding4Fun.Toolkit.Controls;assembly=Coding4Fun.Toolkit.Controls'</Issue>
+      </Section>
+    </File>
+    <File OldPath="WeatherForecastSample.csproj" NewPath="">
+      <Section Name="Mappings">
+        <Issue Type="Runtime" Number="1221" Quantity="1">Removed reference : 'Coding4Fun.Toolkit.Controls' because no mappings were found for it</Issue>
+      </Section>
+    </File>
+  </UpgradeLog>
+</EwiData>
